@@ -1,5 +1,5 @@
 import React from 'react';
-import './Navbar.css';
+import '../layouts/Navbar.css';
 import { useNavigate } from 'react-router-dom';
 
 const Navbar = ({ showBackButton, onBack }) => {
